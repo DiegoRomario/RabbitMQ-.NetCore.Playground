@@ -1,6 +1,7 @@
 ﻿using RabbitMQ.Client;
 using System;
 using System.Text;
+using System.Threading;
 
 namespace Send
 {
@@ -8,6 +9,7 @@ namespace Send
     {
         static void Main(string[] args)
         {
+            Thread.Sleep(2000);
             var factory = new ConnectionFactory() { HostName = "localhost" };
             using (var connection = factory.CreateConnection())
             {

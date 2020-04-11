@@ -1,0 +1,15 @@
+C:\gitRepository\RabbitMQ .NetCore.Playground\src\Receive\bin\Debug\netcoreapp3.1\Receive.exe
+C:\gitRepository\RabbitMQ .NetCore.Playground\src\Receive\obj\Debug\netcoreapp3.1\Receive.csprojAssemblyReference.cache
+C:\gitRepository\RabbitMQ .NetCore.Playground\src\Receive\obj\Debug\netcoreapp3.1\Receive.AssemblyInfoInputs.cache
+C:\gitRepository\RabbitMQ .NetCore.Playground\src\Receive\obj\Debug\netcoreapp3.1\Receive.AssemblyInfo.cs
+C:\gitRepository\RabbitMQ .NetCore.Playground\src\Receive\bin\Debug\netcoreapp3.1\Receive.deps.json
+C:\gitRepository\RabbitMQ .NetCore.Playground\src\Receive\bin\Debug\netcoreapp3.1\Receive.runtimeconfig.json
+C:\gitRepository\RabbitMQ .NetCore.Playground\src\Receive\bin\Debug\netcoreapp3.1\Receive.runtimeconfig.dev.json
+C:\gitRepository\RabbitMQ .NetCore.Playground\src\Receive\bin\Debug\netcoreapp3.1\Receive.dll
+C:\gitRepository\RabbitMQ .NetCore.Playground\src\Receive\bin\Debug\netcoreapp3.1\Receive.pdb
+C:\gitRepository\RabbitMQ .NetCore.Playground\src\Receive\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\gitRepository\RabbitMQ .NetCore.Playground\src\Receive\obj\Debug\netcoreapp3.1\Receive.csproj.CoreCompileInputs.cache
+C:\gitRepository\RabbitMQ .NetCore.Playground\src\Receive\obj\Debug\netcoreapp3.1\Receive.csproj.CopyComplete
+C:\gitRepository\RabbitMQ .NetCore.Playground\src\Receive\obj\Debug\netcoreapp3.1\Receive.dll
+C:\gitRepository\RabbitMQ .NetCore.Playground\src\Receive\obj\Debug\netcoreapp3.1\Receive.pdb
+C:\gitRepository\RabbitMQ .NetCore.Playground\src\Receive\obj\Debug\netcoreapp3.1\Receive.genruntimeconfig.cache

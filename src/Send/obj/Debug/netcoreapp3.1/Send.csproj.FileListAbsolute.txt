@@ -2,3 +2,14 @@ C:\gitRepository\RabbitMQ .NetCore.Playground\src\Send\bin\Debug\netcoreapp3.1\S
 C:\gitRepository\RabbitMQ .NetCore.Playground\src\Send\obj\Debug\netcoreapp3.1\Send.csprojAssemblyReference.cache
 C:\gitRepository\RabbitMQ .NetCore.Playground\src\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfoInputs.cache
 C:\gitRepository\RabbitMQ .NetCore.Playground\src\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfo.cs
+C:\gitRepository\RabbitMQ .NetCore.Playground\src\Send\bin\Debug\netcoreapp3.1\Send.deps.json
+C:\gitRepository\RabbitMQ .NetCore.Playground\src\Send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.json
+C:\gitRepository\RabbitMQ .NetCore.Playground\src\Send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.dev.json
+C:\gitRepository\RabbitMQ .NetCore.Playground\src\Send\bin\Debug\netcoreapp3.1\Send.dll
+C:\gitRepository\RabbitMQ .NetCore.Playground\src\Send\bin\Debug\netcoreapp3.1\Send.pdb
+C:\gitRepository\RabbitMQ .NetCore.Playground\src\Send\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\gitRepository\RabbitMQ .NetCore.Playground\src\Send\obj\Debug\netcoreapp3.1\Send.csproj.CoreCompileInputs.cache
+C:\gitRepository\RabbitMQ .NetCore.Playground\src\Send\obj\Debug\netcoreapp3.1\Send.csproj.CopyComplete
+C:\gitRepository\RabbitMQ .NetCore.Playground\src\Send\obj\Debug\netcoreapp3.1\Send.dll
+C:\gitRepository\RabbitMQ .NetCore.Playground\src\Send\obj\Debug\netcoreapp3.1\Send.pdb
+C:\gitRepository\RabbitMQ .NetCore.Playground\src\Send\obj\Debug\netcoreapp3.1\Send.genruntimeconfig.cache
