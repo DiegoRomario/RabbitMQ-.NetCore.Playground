@@ -9,6 +9,8 @@ namespace Send
     {
         static void Main(string[] args)
         {
+            Console.BackgroundColor = ConsoleColor.DarkGray;
+            Console.WriteLine($"Please enter any message...");
             Thread.Sleep(2000);
             var factory = new ConnectionFactory() { HostName = "localhost" };
             using (var connection = factory.CreateConnection())
@@ -19,17 +21,21 @@ namespace Send
                         autoDelete: false,
                         arguments: null);
 
-                    string message = Console.ReadLine();
-                    var body = Encoding.UTF8.GetBytes(message);
 
-                    channel.BasicPublish(exchange: string.Empty, routingKey: "hello",
+                    while (true)
+                    {
+                        string message = Console.ReadLine();
+                        var body = Encoding.UTF8.GetBytes(message);
+                        channel.BasicPublish(exchange: string.Empty, routingKey: "hello",
                         basicProperties: null,
                         body: body);
-                    Console.WriteLine($"Sender Sent {message}");
+                        Console.WriteLine($"Sender Sent {message}");
+                        Console.WriteLine("Press any key to send another message.");
+                    }
+
 
                 }
-                Console.WriteLine("Press any key to exit.");
-                Console.ReadKey();
+
             }
         }
     }

@@ -9,6 +9,8 @@ namespace Receive
     {
         static void Main(string[] args)
         {
+            Console.BackgroundColor = ConsoleColor.DarkBlue;
+            Console.WriteLine($"Waiting to receive...");
             var factory = new ConnectionFactory() { HostName = "localhost" };
             using (var connection = factory.CreateConnection()) 
             {
