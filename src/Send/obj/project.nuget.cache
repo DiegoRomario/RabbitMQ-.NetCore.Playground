@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1I6pP+5QJL4uSEA9YNg5zR7UfWJ/wSQ94sZRET2cC2NbfIbk1VtR7VMq4gKM51gaXvuxf8eJewKXF0V1RwLrEA==",
+  "success": true,
+  "projectFilePath": "C:\\gitRepository\\RabbitMQ .NetCore.Playground\\src\\Send\\Send.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diego\\.nuget\\packages\\rabbitmq.client\\5.1.2\\rabbitmq.client.5.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
